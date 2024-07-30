@@ -10,7 +10,7 @@ const Sidebar = () => {
             <p className="title">Desenvolvedor Front-end</p>
             <p>redes sociais</p>
             <p>informações de contato</p>
-            <a href="" className="btn">Download Currículo</a>
+            <a href="#" className="btn">Download Currículo</a>
         </aside>
     )
 }
