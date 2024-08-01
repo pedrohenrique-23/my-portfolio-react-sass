@@ -3,7 +3,11 @@ import "../styles/components/maincontent.sass"
 const MainContent = () => {
 
     return (
-        <main id="main-content">MainContent</main>
+        <main id="main-content">
+            <p>about me</p>
+            <p>tecnologias</p>
+            <p>projetos</p>
+        </main>
     )
 }
 
